@@ -47,7 +47,7 @@
 ---
 - Side shopping cart.
 ![Side Shopping Cart](Customer-Module-Picture/manage-cart-sidebar.jpeg)
-
+ 
 ---
 - Add/Remove selected groceries to wishlist.
 ![Wishlist Page](Customer-Module-Picture/wishlist-page.jpeg)
